@@ -1,4 +1,9 @@
 *with this small project i learn a new thing-STREAMLIT*
+
+
+LINK----------https://lznyngvnun3j4vophoxgut.streamlit.app/
+
+
 Streamlit is used to turn a Python script into a web app, mostly for data science and machine learning projects, without writing any HTML, CSS or JavaScript.
 
 A web app is a program you use through a web browser instead of installing it on your computer. You open a link, and it works.
